@@ -1,8 +1,6 @@
 djhfkdf
 dnfcjdf
-<<<<<<< HEAD
+
 durga
 helloworld
 
-=======
->>>>>>> parent of 2828393 (second commit)
